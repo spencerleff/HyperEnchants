@@ -1,0 +1,8 @@
+main: me.SpencerLeff.HyperEnchants.Main
+name: HyperEnchants
+author: SpencerLeff
+version: 1.0
+
+commands:
+   enchanter:
+   bless:
